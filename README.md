@@ -17,7 +17,7 @@ A 2 Dimensional game project build through Unity which includes the creation of 
 
 ![Image 3](Readme_Images/Game.PNG)
 
-**Step 4.** Once the brick hits the ball, it is Game Over! The game over screen will be displayed with your score. User will be given the option to either Quit or Restart. 
+**Step 4.** Once the brick hits the ball, it is Game Over! The game over screen will be displayed with your score. Users will be given the option to either Quit or Restart. 
 * By pressing the Restart button, the game will be loaded immediately.
 * By pressing the Quit button, you will be brought to the menu screen
 
@@ -28,4 +28,5 @@ A 2 Dimensional game project build through Unity which includes the creation of 
 * Create great GAME OVER screen in Unity UI - Unity tutorial [Youtube](https://www.youtube.com/watch?v=K4uOjb5p3Io)
 * START MENU in Unity [Youtube](https://www.youtube.com/watch?v=zc8ac_qUXQY)
 
+:grinning: :smile: :laughing: :rofl: :smiley: :grin: :joy: :upside_down_face: :stuck_out_tongue_closed_eyes:
 What are you waiting for? Press this [link](https://play.unity.com/u/Darien2805) to start playing!
