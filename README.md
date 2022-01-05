@@ -28,5 +28,6 @@ A 2 Dimensional game project build through Unity which includes the creation of 
 * Create great GAME OVER screen in Unity UI - Unity tutorial [Youtube](https://www.youtube.com/watch?v=K4uOjb5p3Io)
 * START MENU in Unity [Youtube](https://www.youtube.com/watch?v=zc8ac_qUXQY)
 
-:grinning: :smile: :laughing: :rofl: :smiley: :grin: :joy: :upside_down_face: :stuck_out_tongue_closed_eyes:
+:grinning: :smile: :laughing: :rofl: :smiley:
 What are you waiting for? Press this [link](https://play.unity.com/u/Darien2805) to start playing!
+:grin: :joy: :upside_down_face: :stuck_out_tongue_closed_eyes: :relaxed:
